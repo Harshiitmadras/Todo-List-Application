@@ -15,8 +15,7 @@ Todo List Application
     <h2>Installation</h2>
     <p>To install and run TodoApp, follow these steps:</p>
     <ol>
-        <li>Clone the repository:</li>
-        <pre><code>git clone https://github.com/FARZINzx/TodoApp.git</code></pre>
+        
         <li>Navigate to the project directory:</li>
         <pre><code>cd TodoApp</code></pre>
         <li>Install the necessary dependencies:</li>
@@ -34,7 +33,6 @@ Todo List Application
         <li>Commit your changes</li>
         <li>Push the branch to your fork</li>
         <li>Submit a pull request</li>
-    </ol>
-    <h2>Contact</h2>
-    <p>If you have any questions or feedback, feel free to contact us at <a href="mailto:5farzinhamzei@egmail.com">5farzinhamzei@egmail.com</a>.</p>
-     <p>Made with ❤️ by <b>FARZINzx</b></p>
+
+
+ </ol>
